@@ -1,0 +1,24 @@
+{
+  "name": "24_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samusevakatsiaryna/24_cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samusevakatsiaryna/24_cypress/issues"
+  },
+  "homepage": "https://github.com/samusevakatsiaryna/24_cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-localstorage-commands": "^1.7.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}

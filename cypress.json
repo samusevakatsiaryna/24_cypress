@@ -1,0 +1,5 @@
+{
+    "testFiles": "**/*.spec.js",
+    "baseUrl": "https://selva.hydrogen.canopy.rent"
+}
+
